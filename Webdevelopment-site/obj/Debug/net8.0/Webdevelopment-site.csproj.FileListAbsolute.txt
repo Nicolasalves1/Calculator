@@ -1,0 +1,14 @@
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\obj\Debug\net8.0\Webdevelopment-site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\obj\Debug\net8.0\Webdevelopment-site.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\obj\Debug\net8.0\Webdevelopment-site.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\obj\Debug\net8.0\Webdevelopment-site.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\bin\Debug\net8.0\Webdevelopment-site.exe
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\bin\Debug\net8.0\Webdevelopment-site.deps.json
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\bin\Debug\net8.0\Webdevelopment-site.runtimeconfig.json
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\bin\Debug\net8.0\Webdevelopment-site.dll
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\bin\Debug\net8.0\Webdevelopment-site.pdb
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\obj\Debug\net8.0\Webdevelopment-site.dll
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\obj\Debug\net8.0\refint\Webdevelopment-site.dll
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\obj\Debug\net8.0\Webdevelopment-site.pdb
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\obj\Debug\net8.0\Webdevelopment-site.genruntimeconfig.cache
+C:\Users\nicol\source\repos\Webdevelopment-site\Webdevelopment-site\obj\Debug\net8.0\ref\Webdevelopment-site.dll
